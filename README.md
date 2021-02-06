@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://discord.gg/XTW52Kt">
+<a href="https://discord.gg/uabDwY2jkU">
   <img align="left" alt="DracoZolt#2762" title="DracoZolt#2762" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/MannJayesh">
@@ -19,7 +19,7 @@
 
 Hi, I'm [Jayesh Mann!](https://jayeshmann.vercel.app/), a passionate self-taught Full Stack Developer 🚀 from India.
 
-  <img align="right" alt="GIF" src="https://github.com/jayeshmann/jayeshmann/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/jayeshmann/jayeshmann/main/code.gif" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
