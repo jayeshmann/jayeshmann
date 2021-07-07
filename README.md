@@ -6,7 +6,7 @@
 <a href="https://twitter.com/MannJayesh">
   <img align="left" alt="Jayesh Mann | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/jayesh-mann-758613190/">
+<a href="https://www.linkedin.com/in/jayeshmann/">
   <img align="left" alt="Jayesh's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://t.me/parismeow">
