@@ -31,8 +31,8 @@ Hi, I'm [Jayesh Mann!](https://jayeshmann.vercel.app/), a passionate self-taught
 - 📫 How to reach me: [@parismeow](https://t.me/parismeow)
 - ⚡ Fun fact: I love Cats.
 - 😄 Pronouns: he/him/his/meow
-- 📝 [Resume](https://docs.google.com/document/d/1BLVsWoOJBwlSAtRVWEHYoBNF-VYGQtCrbTyH8rK-nwY/edit?usp=sharing)
-
+<!-- - 📝 [Resume](https://docs.google.com/document/d/1BLVsWoOJBwlSAtRVWEHYoBNF-VYGQtCrbTyH8rK-nwY/edit?usp=sharing) -->
+<!-- You just found my old resume. Should you wish a long and happy career, you should turn back now and forget you ever saw this.  -->
 <br />
 <br />
 
