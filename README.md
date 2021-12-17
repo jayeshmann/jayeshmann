@@ -1,23 +1,26 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<a href="https://www.linkedin.com/in/jayeshmann/">
+  <img align="left" alt="Jayesh's Linkedin" title="Jayesh's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://t.me/parismeow">
+  <img align="left" alt="Jayesh's Telegram" title="Jayesh's Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
+</a>
 <a href="https://discord.com/users/578725834244751363">
   <img align="left" alt="DracoZolt#2762" title="DracoZolt#2762" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/MannJayesh">
-  <img align="left" alt="Jayesh Mann | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Jayesh's Twitter" title="Jayesh's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/jayeshmann/">
-  <img align="left" alt="Jayesh's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://t.me/parismeow">
-  <img align="left" alt="Jayesh's Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
+<a href="https://leetcode.com/jayeshmann/">
+  <img align="left" alt="Jayesh's LeetCode" title="Jayesh's LeetCode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Leetcode.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=jayeshmann.jayeshmann)
 
 <br />
 
-Hi, I'm [Jayesh Mann!](https://jayeshmann.vercel.app/), a passionate self-taught Full Stack Developer 🚀 from India.
+Hi, I'm [Jayesh Mann!](https://jayeshmann.vercel.app/), a passionate self-taught Software Engineer 🚀 from India.
 
 <br />
 
