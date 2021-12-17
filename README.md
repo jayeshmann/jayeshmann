@@ -121,7 +121,7 @@ Hi, I'm [Jayesh Mann!](https://jayeshmann.vercel.app/), a passionate self-taught
 ### Miscellaneous:
 
 <code><img height="20" title="Google Search Engine" alt="Google Search Engine" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png"></code>
-<code><img height="20" title="HacktoberFest" alt="HacktoberFest" src="https://raw.githubusercontent.com/github/explore/5a50921c15e01a964d7a1ff8a96763645fa1e269/topics/hacktoberfest/hacktoberfest.png"></code>
+<code><img height="20" title="HacktoberFest" alt="HacktoberFest" src="https://raw.githubusercontent.com/github/explore/b9a0686036b9a0322b1d6f85ec26e4aa3e768a4b/topics/hacktoberfest/hacktoberfest.png"></code>
 <code><img height="20" title="Unreal Engine" alt="Unreal Engine" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png"></code>
 
 <br />
