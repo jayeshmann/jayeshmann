@@ -23,7 +23,7 @@ Hi, I'm [Jayesh Mann!](https://jayeshmann.vercel.app/), a passionate self-taught
 
   <img align="right" alt="Coding GIF" src="https://raw.githubusercontent.com/jayeshmann/jayeshmann/main/code.gif" width="500" height="320" />
   
-## Talking about Personal Stuffs:
+## Talking about Personal Stuff:
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning Haskell
@@ -31,10 +31,10 @@ Hi, I'm [Jayesh Mann!](https://jayeshmann.vercel.app/), a passionate self-taught
 - 📫 How to reach me: [@parismeow](https://t.me/parismeow)
 - ⚡ Fun fact: I love Cats.
 - 😄 Pronouns: he/him/his/meow
-<!-- - 📝 [Resume](https://docs.google.com/document/d/1BLVsWoOJBwlSAtRVWEHYoBNF-VYGQtCrbTyH8rK-nwY/edit?usp=sharing) -->
-<!-- You just found my old resume. Should you wish a long and happy career, you should turn back now and forget you ever saw this.  -->
-<br />
-<br />
+  <!-- - 📝 [Resume](https://drive.google.com/file/d/1YaMTL8mt-1k8o0lfhjW2ahA2khpsutxt/view?usp=sharing) -->
+  <!-- You just found my resume. Should you wish a long and happy career, you should turn back now and forget you ever saw this.  -->
+  <br />
+  <br />
 
 ## Technologies I use:
 
