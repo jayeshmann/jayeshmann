@@ -6,7 +6,7 @@
 <a href="https://twitter.com/MannJayesh">
   <img align="left" alt="Jayesh Mann | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/jayesh-mann-758613190/">
+<a href="https://www.linkedin.com/in/jayeshmann/">
   <img align="left" alt="Jayesh's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://t.me/parismeow">
@@ -31,8 +31,8 @@ Hi, I'm [Jayesh Mann!](https://jayeshmann.vercel.app/), a passionate self-taught
 - 📫 How to reach me: [@parismeow](https://t.me/parismeow)
 - ⚡ Fun fact: I love Cats.
 - 😄 Pronouns: he/him/his/meow
-<!-- - 📝[Resume](https://drive.google.com/file/d/1WKhb7jCTSBiY3p0IJAA058aV3dgWNx8H/view?usp=sharing) -->
-
+<!-- - 📝 [Resume](https://docs.google.com/document/d/1BLVsWoOJBwlSAtRVWEHYoBNF-VYGQtCrbTyH8rK-nwY/edit?usp=sharing) -->
+<!-- You just found my old resume. Should you wish a long and happy career, you should turn back now and forget you ever saw this.  -->
 <br />
 <br />
 
