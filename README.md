@@ -3,9 +3,6 @@
 <a href="https://www.linkedin.com/in/jayeshmann/">
   <img align="left" alt="Jayesh's Linkedin" title="Jayesh's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://t.me/parismeow">
-  <img align="left" alt="Jayesh's Telegram" title="Jayesh's Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
-</a>
 <a href="https://discord.com/users/578725834244751363">
   <img align="left" alt="DracoZolt#2762" title="DracoZolt#2762" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -29,13 +26,9 @@ Hi, I'm [Jayesh Mann!](https://jayeshmann.vercel.app/), a passionate self-taught
 ## Talking about Personal Stuff:
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning Haskell
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: [@parismeow](https://t.me/parismeow)
 - ⚡ Fun fact: I love Cats.
 - 😄 Pronouns: he/him/his/meow
-  <!-- - 📝 [Resume](https://drive.google.com/file/d/1YaMTL8mt-1k8o0lfhjW2ahA2khpsutxt/view?usp=sharing) -->
-  <!-- You just found my resume. Should you wish a long and happy career, you should turn back now and forget you ever saw this.  -->
   <br />
   <br />
 
