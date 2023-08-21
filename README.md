@@ -13,7 +13,7 @@
   <img align="left" alt="Jayesh's LeetCode" title="Jayesh's LeetCode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=jayeshmann.jayeshmann)
+[![HitCount](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fjayeshmann%2Fjayeshmann.json%3Fcolor%3Dpink)](http://hits.dwyl.com/jayeshmann/jayeshmann)
 
 <br />
 
